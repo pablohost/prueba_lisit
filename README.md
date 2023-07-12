@@ -1,3 +1,31 @@
+# Prueba Lisit - Mañosos SPA
+
+gestor de tareas multiusuario.
+
+## Installation
+
+1. Crear base de datos mysql 'manosos' en tu localhost
+2. Copiar archivo .env.example en archivo .env
+3. En la carpeta raiz del proyecto
+
+```bash
+  composer install
+  npm install
+  php artisan migrate
+  php artisan serve
+```
+4. En tu navegador abre http://127.0.0.1:8000/
+
+## Tech Stack
+
+Laravel - **v8.83.27** (PHP **v8.1.2**)
+
+MySQL Community Server - GPL - **8.0.31**
+
+React - **16.14.0**
+
+Xampp Control Panel - **v3.3.0**
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
