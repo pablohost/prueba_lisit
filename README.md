@@ -1,6 +1,6 @@
 # Prueba Lisit - Mañosos SPA
 
-gestor de tareas multiusuario
+gestor de tareas multiusuario.
 
 ## Installation
 
