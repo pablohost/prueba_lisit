@@ -18,11 +18,11 @@ gestor de tareas multiusuario.
 
 ## Tech Stack
 
-Laravel - **v8.83.27** (PHP **v8.1.2**)
+Laravel - **v10.15.0** (PHP **v8.2.4**)
 
 MySQL Community Server - GPL - **8.0.31**
 
-React - **16.14.0**
+Vue - **3.3.4**
 
 Xampp Control Panel - **v3.3.0**
 
